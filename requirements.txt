@@ -1,2 +1,2 @@
-phython-telegram-bot
+phython-telegram-bot==20.7
 requests
