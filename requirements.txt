@@ -1,2 +1,2 @@
-phython-telegram-bot==22.7
+phython-telegram-bot
 requests
